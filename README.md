@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/39296126?s=400&u=ee563ea1411598775d90d44fd503cf055dbc7971&v=4"/>
+<img src="./_DSC0287.JPG"/>
  <hr></hr>
 <p align="center">
   <samp>
