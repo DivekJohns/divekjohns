@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**DivekJohns/divekjohns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/saadpasta/saadpasta/master/Banner%20%20(1).png"/>
+ <hr></hr>
+<p align="center">
+  <samp>
+    Hi, I'm Divek! 👋 <br>
+    🔥 Software Developer grinding hard to make something cool  <br>
+    :sparkles: Favorite Tech: JavaScript, Angular, Typescript, Python ... <br>
+    :notebook: I’m currently learning DS and Algo... 😭  <br>
+    :email:	divekjohn@gmail.com <br>
+    :art: Portfolio: https://divekjohns.github.io <br>
+    :briefcase: LinkedIn: https://www.linkedin.com/in/diveks/ <br>
+  </samp>
+</p>
